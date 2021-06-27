@@ -15,8 +15,3 @@ for print AX number in the monitor in exact 5digit
 &nbsp; <h3>Math</h3>
 accept AX, BX as input, CL as an operator,
 return result in AX
-
-<h2>output</h2>
-<video controls>
-  <source src="/output.mp4" type="video/mp4">
-</video>
