@@ -18,5 +18,5 @@ return result in AX
 
 <h2>output</h2>
 <video controls>
-  <source src="output.mp4" type="video/mp4">
+  <source src="/output.mp4" type="video/mp4">
 </video>
