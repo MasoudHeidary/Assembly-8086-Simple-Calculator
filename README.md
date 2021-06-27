@@ -17,4 +17,4 @@ accept AX, BX as input, CL as an operator,
 return result in AX
 
 <h2>output</h2>
-<video src="output.mp4">
+<img src="output.gif">
