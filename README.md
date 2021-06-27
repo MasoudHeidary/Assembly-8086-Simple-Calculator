@@ -15,3 +15,6 @@ for print AX number in the monitor in exact 5digit
 &nbsp; <h3>Math</h3>
 accept AX, BX as input, CL as an operator,
 return result in AX
+
+<h2>output</h2>
+https://user-images.githubusercontent.com/83184423/123556321-cfbd6580-d79f-11eb-9fd1-210329f1a680.mp4
